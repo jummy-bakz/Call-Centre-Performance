@@ -95,7 +95,7 @@ This analysis indicates that a substantial portion of cases, 3.6k, have been suc
  ![total cal by topic](https://github.com/user-attachments/assets/bc31ad40-4e3d-4b48-abf2-2fc5aaa01104)
 
 
- ## Duration of calls bt every agent:
+ ## Duration of calls by every agent:
 
  To determine the total call by topic, I utilized a stacked bar chart. Firstly, I positioned the "Duration column " and applied "Agent column" 
  Below is a screenshot illustrating the resulting visualization.
