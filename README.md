@@ -106,7 +106,10 @@ This analysis indicates that a substantial portion of cases, 3.6k, have been suc
 ## Dashboard :
 
 This dashboard is created to visually depict and present all pertinent Key Performance Indicators (KPIs) and metrics within the dataset
+
+
 ![Call performance report](https://github.com/user-attachments/assets/161acdb4-0391-4053-8d5c-c535a8b7a17c)
+
 
 Recommendation and conclusion:
 
